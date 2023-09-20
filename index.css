@@ -11,3 +11,10 @@ p {
   margin-bottom: 36px;
   font-size: 24px;
 }
+a {
+  display: block;
+}
+
+.image-container {
+  display: flex;
+}
