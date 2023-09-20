@@ -1,3 +1,13 @@
 body {
   background-color: #d62828;
 }
+h1 {
+  color: whitesmoke;
+  text-align: center;
+}
+p {
+  color: lightgrey;
+  text-align: center;
+  margin-bottom: 36px;
+  font-size: 24px;
+}
